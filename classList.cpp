@@ -135,7 +135,7 @@ int main()
   int dd, mm, yy, choice = 25;
   std::string familyName, matricule, givenName, dateOfBirth;
 
-  std::cout << "\tClassroom\t\n--------" << std::endl;
+  std::cout << "\tClassroom\n\t--------" << std::endl;
   while (choice > 0)
   {
     std::cout << "\n1. Add student" << std::endl;
