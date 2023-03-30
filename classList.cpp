@@ -132,7 +132,7 @@ int main()
   Date date;
   Student student;
   Classroom classroom;
-  int dd, mm, yy, choice = -25;
+  int dd, mm, yy, choice = 25;
   std::string familyName, matricule, givenName, dateOfBirth;
 
   std::cout << "\tClassroom\t\n--------" << std::endl;
